@@ -11,7 +11,7 @@ fontFace = cv2.FONT_HERSHEY_SIMPLEX
 fontScale = 1
 fontColor = (0,0,255)
 
-id_map = ['Saksham','Ajay']
+id_map = ['Saksham','Ajay','Manish']
 
 cam = cv2.VideoCapture(0)
 
