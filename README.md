@@ -1,3 +1,3 @@
 # Face-Recognition
 
-Run SS first, edit trainer to fill in ID list and then run it, run detector to detect your face.
+Run SS first, enter id in integer, run trainer, edit detector.py corresponding to face_id in detector and then run it to detect your face.
