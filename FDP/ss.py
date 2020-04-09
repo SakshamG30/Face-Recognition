@@ -24,7 +24,7 @@ while True:
     print(frame)
     cv2.imshow("ss",frame)
     key=cv2.waitKey(1)
-    if i>20:
+    if i>40:
         break;
 
 cam.release()
